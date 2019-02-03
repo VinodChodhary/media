@@ -1,2 +1,2 @@
 # media
-I have done my assigment 
+I have done my Assignment
